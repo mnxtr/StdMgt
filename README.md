@@ -1,2 +1,1 @@
-My First Object Oriented Project based Assessment. 
-Course CSE215
+Student management System. A Program built with java incorporating Object Oriented Programming. 
